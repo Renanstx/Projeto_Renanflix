@@ -1,1 +1,42 @@
-# Projeto_Renanflix
+<!DOCTYPE html>
+<html lang="pt-br">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Netflix</title>
+    <link rel="stylesheet" href="style.css">
+</head>
+<body>
+    <main>
+        <h1>Quem está assistindo?</h1>
+        <section aria-label="Perfis disponíveis">
+            <nav class="profiles">
+                <a href="#" class="profile">
+                    <figure>
+                        <img src="/assets/perfil-1.jpg" alt="Um personagem de aparência gótica e caricata, com cabelos roxos e monóculo, posa em um cenário fantástico de miniaturas sombrias iluminadas por velas.">
+                        <figcaption>Gustavo</figcaption>
+                    </figure>
+                </a>
+                <a href="#" class="profile">
+                    <figure>
+                        <img src="/assets/perfil-2.jpg" alt="Imagem de um boné azul">
+                        <figcaption>Thiago</figcaption>
+                    </figure>
+                </a>
+                <a href="#" class="profile">
+                    <figure>
+                        <img src="/assets/perfil-3.jpg" alt="Imagem de um boné azul">
+                        <figcaption>Maria</figcaption>
+                    </figure>
+                </a>
+                <a href="#" class="profile">
+                    <figure>
+                        <img src="/assets/perfil-4.jpg" alt="Imagem de um boné azul">
+                        <figcaption>João</figcaption>
+                    </figure>
+                </a>
+            </nav>
+        </section>
+    </main>
+</body>
+</html>
